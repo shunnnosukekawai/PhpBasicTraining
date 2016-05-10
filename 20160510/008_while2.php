@@ -8,7 +8,7 @@ while ( $i<10 ) {
     continue;
     }
         echo $i ."<br />";
-    
+
     $i++;
 }
 ?>
